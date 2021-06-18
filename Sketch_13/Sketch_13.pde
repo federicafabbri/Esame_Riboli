@@ -3,9 +3,9 @@ int x, y, w, h;
 boolean painting = false;
 
 void setup() {
-size(800, 800);
+size(900, 621);
 rectMode(CORNERS);
-src = loadImage("munari.jpg");
+src = loadImage("opera.jpeg");
 src.resize(width, height);
 img = src.get();
 }
