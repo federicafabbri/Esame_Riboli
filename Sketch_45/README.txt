@@ -1,0 +1,7 @@
+Sketch 45
+
+Questo sketch vuole essere una variante ed una prosecuzione della sperimentazione di quello precedente. Il meccanismo è sempre lo stesso, basato sul sistema particellare, ma questa volta l'obiettivo che è stato posto sin dall'inizio è stato quello di simulare l'effetto fuochi d'artificio: è per questo che le particelle che scendono sono più veloci e filamentose dello sketch precedente e caratterizzate da una traccia multicolore. Nell'esatto momento in cui incontrano l'ostacolo, ossia la parola, rimbalzano e saltano in varie direzioni per simulare l'idea di fuoco d'artificio. La particolarità è che le lettere della parola stessa mascherano a loro volta un medesimo effetto, ma bianco, per rendere individuabile il termine ed anche perché nella realtà non esistono solo fuochi colorati ma, appunto, anche bianchi. L'utente, però, cliccando con il tasto sinistro del mouse sulla finestra, può far succedere un'altra cosa: improvvisamente i filamenti si coloreranno di nero e la scritta "FIREWORKS" risalterà a pieno sullo schermo e si animeranno anche delle particelle esterne alla parola per rendere il tutto più realistico.
+
+Link riferimento originale: https://github.com/ranaaditya/processing-sketchbook/tree/master/FlowField
+
+Autore: Ranaaditya
